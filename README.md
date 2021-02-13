@@ -1,3 +1,3 @@
  <p align='center'>
-    <img src='images/art_78.png' alt='screenshot' />
+    <img src='images/school-of-athens.jpg' alt='screenshot' />
 </p>
