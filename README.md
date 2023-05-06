@@ -9,5 +9,5 @@ The School of Athens is a fresco by the Italian Renaissance artist Raphael. It w
 </details>
 </br> -->
 <p align='center'>
-    <img src="images/school-of-athens.jpg" width="100%" />
+    <img src="images/Screenshot_20230506_201324.png" width="100%" />
 </p>
