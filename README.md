@@ -1,5 +1,4 @@
-# The School of Athens <sub>(Distributed Learning)</sub>
-<!-- About Section -->
+<!-- # The School of Athens <sub>(Distributed Learning)</sub>
 <details>
   <summary><b>🖌️ Fresco by **Raphael**</b></summary>  
 <blockquote>
@@ -8,7 +7,7 @@ The School of Athens is a fresco by the Italian Renaissance artist Raphael. It w
 
 </blockquote>
 </details>
-</br>
+</br> -->
 <p align='center'>
     <img src="images/school-of-athens.jpg" width="100%" />
 </p>
